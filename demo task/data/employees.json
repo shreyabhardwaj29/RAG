@@ -1,0 +1,117 @@
+{
+    "Employees" : [
+    {
+    "userId": "rirani",
+    "jobTitleName":"Developer",
+    "firstName":"Romin",
+    "lastName":"Irani",
+    "preferredFullName":"Romin Irani",
+    "employeeCode":"E1",
+    "region":"CA",
+    "phoneNumber":"408-1234567",
+    "emailAddress":"romin.k.irani@gmail.com",
+    "company":[{
+        "name": "TCS",
+        "description": "Tata Consultancy Services (TCS) is a global IT services, consulting, and business solutions company headquartered in Mumbai, India. Part of the Tata Group, it is one of the largest IT services firms worldwide, offering expertise in software development, digital transformation, and IT consulting across various industries."
+    }]
+    },
+    {
+    "userId":"nirani",
+    "jobTitleName":[],
+    "firstName":"Neil",
+    "lastName":"Irani",
+    "preferredFullName":"Neil Irani",
+    "employeeCode":"E2",
+    "region":"CA",
+    "phoneNumber":"408-1111111",
+    "emailAddress":"neilrirani@gmail.com",
+    "company":[{
+        "name": "NVIDIA",
+        "description": "NVIDIA Corporation is a leading technology company specializing in designing GPUs (Graphics Processing Units) for gaming, AI, data centers, and professional visualization. Founded in 1993, it has pioneered advancements in AI, machine learning, and accelerated computing, becoming a key player in the tech industry."
+    }]
+    },
+    {
+    "userId":"thanks",
+    "jobTitleName":null,
+    "firstName":"Tom",
+    "lastName":"Hanks",
+    "preferredFullName":"Tom Hanks",
+    "employeeCode":"E3",
+    "region":"CA",
+    "phoneNumber":"408-2222222",
+    "emailAddress":"tomhanks@gmail.com",
+    "company":[{
+        "name": "Infosys",
+        "description": "Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation."
+    }]
+    },
+    {
+        "userId": "asmith",
+        "jobTitleName": "Project Manager",
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "preferredFullName": "Alice Smith",
+        "employeeCode": "E3",
+        "region": "TX",
+        "phoneNumber": "512-7894561",
+        "emailAddress": "alice.smith@example.com",
+        "company": [
+          {
+            "name": "Wipro",
+            "description": "Wipro Limited is a leading global information technology, consulting, and business process services company. Based in India, it provides IT solutions, application development, and managed services across industries."
+          }
+        ]
+      },
+      {
+        "userId": "mjohnson",
+        "jobTitleName": "Business Analyst",
+        "firstName": "Mark",
+        "lastName": "Johnson",
+        "preferredFullName": "Mark Johnson",
+        "employeeCode": "E4",
+        "region": "FL",
+        "phoneNumber": "305-9876543",
+        "emailAddress": "mark.johnson@example.com",
+        "company": [
+          {
+            "name": "Cognizant",
+            "description": "Cognizant is an American multinational corporation providing IT services, including digital, technology, consulting, and operations services. Known for its focus on customer-centric innovation, it is a major player in digital transformation."
+          }
+        ]
+      },
+      {
+        "userId": "bwilliams",
+        "jobTitleName": "QA Engineer",
+        "firstName": "Beth",
+        "lastName": "Williams",
+        "preferredFullName": "Beth Williams",
+        "employeeCode": "E5",
+        "region": "INDIA",
+        "phoneNumber": "312-6543210",
+        "emailAddress": "beth.williams@example.com",
+        "company": [
+          {
+            "name": "HCL Technologies",
+            "description": "HCL Technologies is a next-generation global technology company that helps enterprises reimagine their businesses for the digital age. With a strong focus on innovation, it offers IT services, consulting, and solutions globally."
+          }
+        ]
+      },
+      {
+        "userId": "jgarcia",
+        "jobTitleName": "Data Scientist",
+        "firstName": "Jose",
+        "lastName": "Garcia",
+        "preferredFullName": "Jose Garcia",
+        "employeeCode": "E6",
+        "region": "CA",
+        "phoneNumber": "408-2223344",
+        "emailAddress": "jose.garcia@example.com",
+        "company": [
+          {
+            "name": "Capgemini",
+            "description": "Capgemini is a global leader in consulting, technology services, and digital transformation. It specializes in delivering business-driven IT solutions and services to enhance operational efficiency and digital innovation."
+          }
+        ]
+      }
+    ]
+    }
